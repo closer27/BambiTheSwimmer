@@ -1,0 +1,25 @@
+{
+    "author": "Planetill",
+    "dependencies": {},
+    "keywords": [],
+    "name": "bambiface",
+    "pebble": {
+        "displayName": "BambiTheSwimmer WatchFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "74f501cd-2f8c-4739-9de2-4a1aec6336c5",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}

@@ -1,22 +1,28 @@
 {
-    "author": "Planetill",
+    "author": "closer527@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "bambiface",
+    "name": "bambi",
     "pebble": {
-        "displayName": "BambiTheSwimmer WatchFace",
+        "displayName": "Bambi",
         "enableMultiJS": true,
         "messageKeys": [],
-        "projectType": "rocky",
+        "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "data/bambi.png",
+                    "name": "BACKGROUND_IMAGE",
+                    "targetPlatforms": null,
+                    "type": "raw"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
-            "basalt",
             "chalk"
         ],
-        "uuid": "74f501cd-2f8c-4739-9de2-4a1aec6336c5",
+        "uuid": "562896fa-4222-41b8-8ea4-0cc93f656b15",
         "watchapp": {
             "watchface": true
         }

@@ -11,8 +11,8 @@
         "resources": {
             "media": [
                 {
-                    "file": "data/bambi.png",
-                    "name": "BACKGROUND_IMAGE",
+                    "file": "data/animation.png",
+                    "name": "ANIMATION",
                     "targetPlatforms": null,
                     "type": "raw"
                 }
